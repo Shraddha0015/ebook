@@ -1,0 +1,70 @@
+{
+    "products":[
+       
+         {
+        
+       "img":"https://www.elpalaciodehierro.com/on/demandware.static/-/Sites-palacio-master-catalog/default/dwe09e81df/images/42824703/large/42824703_x1.jpg",
+        "id":1,
+        "name":"iphone14",
+        "price":20000,
+        "category":"mobile",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://www.lg.com/us/images/tvs/md05950776/gallery/75SK8070AUB_DZ01.jpg",
+        "id":2,
+        "name":"LGTv",
+        "price":7000,
+        "category":"tv",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://th.bing.com/th/id/OIP.Ukpbo7nhSqiRN-ejZpyMXgHaHa?w=200&h=201&c=7&r=0&o=7&pid=1.7&rm=3",
+        "id":3,
+        "name":"watch",
+        "price":2000,
+        "category":"watch",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://th.bing.com/th/id/OIP.sJpm1e7h3r3WIrLnwbs_MQHaE8?w=229&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+        "id":4,
+        "name":"dell",
+        "price":20000,
+        "category":"laptop",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+          {
+            "img":"https://th.bing.com/th/id/OIP.HoodR7IQkD-iz80js0kYxQHaEK?w=304&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+        "id":5,
+        "name":"iphone13",
+        "price":21000,
+        "category":"mobile",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://th.bing.com/th/id/OIP.CGr-HGIMMcdnS5OyCD_4DQHaLj?w=184&h=288&c=7&r=0&o=7&pid=1.7&rm=3",
+        "id":6,
+        "name":"Titan",
+        "price":7000,
+        "category":"watch",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"data:image/webp;base64,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",
+        "id":7,
+        "name":"sonata",
+        "price":2000,
+        "category":"watch",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       },
+       {
+        "img":"https://th.bing.com/th/id/OIP.0UmOpqbiS0jpXhlXOFrGCgHaE7?w=266&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+        "id":8,
+        "name":"samsung",
+        "price":20000,
+        "category":"mobile",
+        "description":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus, explicabo facere totam porro doloribus inventore corporis nisi saepe voluptatum velit earum amet veniam voluptatem cum dolore officiis autem rem."
+       }
+    ]
+}
